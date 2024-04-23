@@ -1,14 +1,4 @@
-# Computer Science Experience Labs
+# Computer Science Experience Labs Equipment Checkout System
 
-The Experience Labs' (XL) mission is to accelerate technical experience and build community among undergraduate CS majors at The University of North Carolina at Chapel Hill. The XL's web app, found in production at `csxl.unc.edu`, is backed by this repository.
-
-* [Get Started with a Development Environment](docs/get_started.md)
-
-## Developer Docs
-
-* [Authentication, Authorization, and Permissions](docs/auth.md)
-* [Testing Tools](docs/testing.md)
-
-## Feature Docs
-
-* [Github Integration](docs/github_integration.md)
+Group project with David Sprague, Jacob Brown, and Ayden Franklin. We worked specifically on the Equipment Checkout System.
+More detailed descriptions of our work can be found in the [docs folder](https://github.com/nicholasmountain11/csxl-final-team-d9/blob/2c366d82900264e09acaa898b7787a485cb2325d/docs/docs/equipment-reservation-system-design-doc-spec.md).
